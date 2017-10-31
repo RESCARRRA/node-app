@@ -6,21 +6,33 @@ The following will provide an overview of how to create a '_Language_ _Interpret
 
 ### Getting started
 
-1. To retrieve the data that will power this app, you'll need to send requests to the Twitter, Spotify and OMDB APIs. It's recommended that you look over the documentation provided and create your own access keys for/with each service.
+1. To retrieve the data that will power this app, you'll need to send requests to the Twitter, Spotify and OMDB APIs. 
+It's recommended that you look over the documentation provided and create your own access keys/token/etc.
 
-- [Twitter](https://www.npmjs.com/package/twitter)
+2. Clone repo
 
-- [Spotify](https://www.npmjs.com/package/node-spotify-api)
+3. Run 'npm install'
 
-- [Request](https://www.npmjs.com/package/request)
+4. Run command 'node liri.js' followed by one of the LIRI command prompts below
 
-    - _Request is used to grab movie data from the [OMDB API](http://www.omdbapi.com).
+**_See list of technologies used below..._**
 
-2. LIRI will display your latest tweets and have access to your spotify account. Please make alias accounts!
+### Tech Used
+     
+ _LIRI will display your latest tweets and have access to your spotify account. Again, PLEASE use your own accounts or make an alias!_
 
-3.  The app, liri.js, is designed to take in one of the following commands:
+- [Node.js](https://nodejs.org/en/)- Download the latest version of Node 
+
+- [Twitter](https://www.npmjs.com/package/twitter) - NPM Package
+
+- [Spotify](https://www.npmjs.com/package/node-spotify-api) - NPM Package
+
+- [Request](https://www.npmjs.com/package/request) - NPM Package
+    - _Request is used to grab movie data from the [OMDB API](http://www.omdbapi.com)_
 
 ### LIRI Command List
+#### _LIRI is designed to take in one of the following commands:_
+
 
 _`my-tweets`_
 
