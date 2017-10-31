@@ -8,13 +8,13 @@ The following will provide an overview of how to create a '_Language_ _Interpret
 
 1. To retrieve the data that will power this app, you'll need to send requests to the Twitter, Spotify and OMDB APIs. It's recommended that you look over the documentation provided and create your own access keys for/with each service.
 
-* [Twitter](https://www.npmjs.com/package/twitter)
+- [Twitter](https://www.npmjs.com/package/twitter)
 
-* [Spotify](https://www.npmjs.com/package/node-spotify-api)
+- [Spotify](https://www.npmjs.com/package/node-spotify-api)
 
-* [Request](https://www.npmjs.com/package/request)
+- [Request](https://www.npmjs.com/package/request)
 
-    *Request is used to grab movie data from the [OMDB API](http://www.omdbapi.com).
+    -_Request is used to grab movie data from the [OMDB API](http://www.omdbapi.com).
 
 2. LIRI will display your latest tweets and have access to your spotify account. Please make alias accounts!
 
