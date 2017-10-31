@@ -33,7 +33,7 @@ _`do-what-it-says`_
 
 __1. ```node liri.js my-tweets```__
 
-* This will show the last 20 tweets and when they were created at in the user's terminal/bash window.
+* This will show the user their most recent 10-20 tweets and the timestamp upon submission (currently set to output dummy tweets) and when they were created in the user's terminal/bash window.
 
 __2. ```node liri.js spotify-this-song '<song name here>'```__
 
