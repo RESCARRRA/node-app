@@ -14,7 +14,7 @@ The following will provide an overview of how to create a '_Language_ _Interpret
 
 - [Request](https://www.npmjs.com/package/request)
 
-    -_Request is used to grab movie data from the [OMDB API](http://www.omdbapi.com).
+    - _Request is used to grab movie data from the [OMDB API](http://www.omdbapi.com).
 
 2. LIRI will display your latest tweets and have access to your spotify account. Please make alias accounts!
 
