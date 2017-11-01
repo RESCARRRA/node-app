@@ -1,0 +1,512 @@
+
+ *-------------------------  TWEET No.1  --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+October 27th 2017, 4:10:15 pm
+
+@oprah__rynfrey: LAST ONE! Test Tweet 10 of 10 for  Dev Project.
+
+
+ *-------------------------  TWEET No.2  --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+October 27th 2017, 4:10:05 pm
+
+@oprah__rynfrey: Test Tweet 9 of 10 for  Dev Project
+
+
+ *-------------------------  TWEET No.3  --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+October 27th 2017, 4:10:00 pm
+
+@oprah__rynfrey: Test Tweet 8 of 10 for  Dev Project
+
+
+ *-------------------------  TWEET No.4  --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+October 27th 2017, 4:09:53 pm
+
+@oprah__rynfrey: Test Tweet 7 of 10 for  Dev Project
+
+
+ *-------------------------  TWEET No.5  --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+October 27th 2017, 4:09:46 pm
+
+@oprah__rynfrey: Test Tweet 6 of 10 for  Dev Project
+
+
+ *-------------------------  TWEET No.6  --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+October 27th 2017, 4:09:41 pm
+
+@oprah__rynfrey: Test Tweet 5 of 10 for  Dev Project
+
+
+ *-------------------------  TWEET No.7  --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+October 27th 2017, 4:09:35 pm
+
+@oprah__rynfrey: Test Tweet 3 of 10 for  Dev Project
+
+
+ *-------------------------  TWEET No.8  --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+October 27th 2017, 4:09:30 pm
+
+@oprah__rynfrey: Test Tweet 2 of 10 for  Dev Project
+
+
+ *-------------------------  TWEET No.9  --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+October 27th 2017, 4:09:22 pm
+
+@oprah__rynfrey: Test Tweet 1 of 10 for  Dev Project
+
+
+ *-------------------------  TWEET No.10  --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+February 9th 2017, 7:38:57 pm
+
+@oprah__rynfrey: "Yak Bak to the Future" #AddAToyImproveAMovie @midnight
+
+
+
+*------------------------   * SONG # 1 *   --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+* Artist: Melanie
+
+* Track: Brand New Key
+
+* Album: Beautiful People: The Greatest Hits of Melanie
+
+* Preview: https://p.scdn.co/mp3-preview/1a59ed2c547ed1328f761dd7a23de9dc3da7e304?cid=1f1b3ecb9cd2456d87e63bdd81078f4a
+
+
+*------------------------   * SONG # 2 *   --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+* Artist: Melanie
+
+* Track: Brand New Key
+
+* Album: Boogie Nights / Music From The Original Motion Picture
+
+* Preview: null
+
+
+*------------------------   * SONG # 3 *   --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+* Artist: The Dollyrots
+
+* Track: Brand New Key
+
+* Album: Because I'm Awesome
+
+* Preview: https://p.scdn.co/mp3-preview/3bdc302ee64c19256872eaf81481f143f484f495?cid=1f1b3ecb9cd2456d87e63bdd81078f4a
+
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+*-----------------------------  MOVIE  ------------------------------*
+* Title: Mr. Nobody
+
+* Release Date: 2009
+
+* Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+* IMDB Rating: 7.9
+
+* Rotten Tomatoes Rating: 66%
+
+* Countries: Belgium, Germany, Canada, France, USA, UK
+
+* Language: English, Mohawk
+
+* Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. 
+
+*--------------------------------------------------------------------*
+
+
+*------------------------   * SONG # 1 *   --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+* Artist: Backstreet Boys
+
+* Track: I Want It That Way
+
+* Album: The Hits--Chapter One
+
+* Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=1f1b3ecb9cd2456d87e63bdd81078f4a
+
+
+*------------------------   * SONG # 2 *   --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+* Artist: Backstreet Boys
+
+* Track: I Want It That Way
+
+* Album: The Essential Backstreet Boys
+
+* Preview: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=1f1b3ecb9cd2456d87e63bdd81078f4a
+
+
+*------------------------   * SONG # 3 *   --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+* Artist: Backstreet Boys
+
+* Track: I Want It That Way
+
+* Album: Millennium
+
+* Preview: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=1f1b3ecb9cd2456d87e63bdd81078f4a
+
+ *-------------------------  TWEET No.1  --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+October 27th 2017, 4:10:15 pm
+
+@oprah__rynfrey: LAST ONE! Test Tweet 10 of 10 for  Dev Project.
+
+
+ *-------------------------  TWEET No.2  --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+October 27th 2017, 4:10:05 pm
+
+@oprah__rynfrey: Test Tweet 9 of 10 for  Dev Project
+
+
+ *-------------------------  TWEET No.3  --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+October 27th 2017, 4:10:00 pm
+
+@oprah__rynfrey: Test Tweet 8 of 10 for  Dev Project
+
+
+ *-------------------------  TWEET No.4  --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+October 27th 2017, 4:09:53 pm
+
+@oprah__rynfrey: Test Tweet 7 of 10 for  Dev Project
+
+
+ *-------------------------  TWEET No.5  --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+October 27th 2017, 4:09:46 pm
+
+@oprah__rynfrey: Test Tweet 6 of 10 for  Dev Project
+
+
+ *-------------------------  TWEET No.6  --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+October 27th 2017, 4:09:41 pm
+
+@oprah__rynfrey: Test Tweet 5 of 10 for  Dev Project
+
+
+ *-------------------------  TWEET No.7  --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+October 27th 2017, 4:09:35 pm
+
+@oprah__rynfrey: Test Tweet 3 of 10 for  Dev Project
+
+
+ *-------------------------  TWEET No.8  --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+October 27th 2017, 4:09:30 pm
+
+@oprah__rynfrey: Test Tweet 2 of 10 for  Dev Project
+
+
+ *-------------------------  TWEET No.9  --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+October 27th 2017, 4:09:22 pm
+
+@oprah__rynfrey: Test Tweet 1 of 10 for  Dev Project
+
+
+ *-------------------------  TWEET No.10  --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+February 9th 2017, 7:38:57 pm
+
+@oprah__rynfrey: "Yak Bak to the Future" #AddAToyImproveAMovie @midnight
+
+
+ *-------------------------  TWEET No.1  --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+October 27th 2017, 4:10:15 pm
+
+@oprah__rynfrey: LAST ONE! Test Tweet 10 of 10 for  Dev Project.
+
+
+ *-------------------------  TWEET No.2  --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+October 27th 2017, 4:10:05 pm
+
+@oprah__rynfrey: Test Tweet 9 of 10 for  Dev Project
+
+
+ *-------------------------  TWEET No.3  --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+October 27th 2017, 4:10:00 pm
+
+@oprah__rynfrey: Test Tweet 8 of 10 for  Dev Project
+
+
+ *-------------------------  TWEET No.4  --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+October 27th 2017, 4:09:53 pm
+
+@oprah__rynfrey: Test Tweet 7 of 10 for  Dev Project
+
+
+ *-------------------------  TWEET No.5  --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+October 27th 2017, 4:09:46 pm
+
+@oprah__rynfrey: Test Tweet 6 of 10 for  Dev Project
+
+
+ *-------------------------  TWEET No.6  --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+October 27th 2017, 4:09:41 pm
+
+@oprah__rynfrey: Test Tweet 5 of 10 for  Dev Project
+
+
+ *-------------------------  TWEET No.7  --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+October 27th 2017, 4:09:35 pm
+
+@oprah__rynfrey: Test Tweet 3 of 10 for  Dev Project
+
+
+ *-------------------------  TWEET No.8  --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+October 27th 2017, 4:09:30 pm
+
+@oprah__rynfrey: Test Tweet 2 of 10 for  Dev Project
+
+
+ *-------------------------  TWEET No.9  --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+October 27th 2017, 4:09:22 pm
+
+@oprah__rynfrey: Test Tweet 1 of 10 for  Dev Project
+
+
+ *-------------------------  TWEET No.10  --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+February 9th 2017, 7:38:57 pm
+
+@oprah__rynfrey: "Yak Bak to the Future" #AddAToyImproveAMovie @midnight
+
+
+
+*------------------------   * SONG # 1 *   --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+* Artist: Melanie
+
+* Track: Brand New Key
+
+* Album: Beautiful People: The Greatest Hits of Melanie
+
+* Preview: https://p.scdn.co/mp3-preview/1a59ed2c547ed1328f761dd7a23de9dc3da7e304?cid=1f1b3ecb9cd2456d87e63bdd81078f4a
+
+
+*------------------------   * SONG # 2 *   --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+* Artist: Melanie
+
+* Track: Brand New Key
+
+* Album: Boogie Nights / Music From The Original Motion Picture
+
+* Preview: null
+
+
+*------------------------   * SONG # 3 *   --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+* Artist: The Dollyrots
+
+* Track: Brand New Key
+
+* Album: Because I'm Awesome
+
+* Preview: https://p.scdn.co/mp3-preview/3bdc302ee64c19256872eaf81481f143f484f495?cid=1f1b3ecb9cd2456d87e63bdd81078f4a
+
+
+*------------------------   * SONG # 1 *   --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+* Artist: Backstreet Boys
+
+* Track: I Want It That Way
+
+* Album: The Hits--Chapter One
+
+* Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=1f1b3ecb9cd2456d87e63bdd81078f4a
+
+
+*------------------------   * SONG # 2 *   --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+* Artist: Backstreet Boys
+
+* Track: I Want It That Way
+
+* Album: The Essential Backstreet Boys
+
+* Preview: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=1f1b3ecb9cd2456d87e63bdd81078f4a
+
+
+*------------------------   * SONG # 3 *   --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+* Artist: Backstreet Boys
+
+* Track: I Want It That Way
+
+* Album: Millennium
+
+* Preview: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=1f1b3ecb9cd2456d87e63bdd81078f4a
+
+
+*------------------------   * SONG # 1 *   --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+* Artist: Backstreet Boys
+
+* Track: I Want It That Way
+
+* Album: The Hits--Chapter One
+
+* Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=1f1b3ecb9cd2456d87e63bdd81078f4a
+
+
+*------------------------   * SONG # 2 *   --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+* Artist: Backstreet Boys
+
+* Track: I Want It That Way
+
+* Album: The Essential Backstreet Boys
+
+* Preview: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=1f1b3ecb9cd2456d87e63bdd81078f4a
+
+
+*------------------------   * SONG # 3 *   --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+* Artist: Backstreet Boys
+
+* Track: I Want It That Way
+
+* Album: Millennium
+
+* Preview: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=1f1b3ecb9cd2456d87e63bdd81078f4a
+
+
+*------------------------   * SONG # 1 *   --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+* Artist: Melanie
+
+* Track: Brand New Key
+
+* Album: Beautiful People: The Greatest Hits of Melanie
+
+* Preview: https://p.scdn.co/mp3-preview/1a59ed2c547ed1328f761dd7a23de9dc3da7e304?cid=1f1b3ecb9cd2456d87e63bdd81078f4a
+
+
+*------------------------   * SONG # 2 *   --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+* Artist: Melanie
+
+* Track: Brand New Key
+
+* Album: Boogie Nights / Music From The Original Motion Picture
+
+* Preview: null
+
+
+*------------------------   * SONG # 3 *   --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+* Artist: The Dollyrots
+
+* Track: Brand New Key
+
+* Album: Because I'm Awesome
+
+* Preview: https://p.scdn.co/mp3-preview/3bdc302ee64c19256872eaf81481f143f484f495?cid=1f1b3ecb9cd2456d87e63bdd81078f4a
+
+
+*------------------------   * SONG # 1 *   --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+* Artist: Melanie
+
+* Track: Brand New Key
+
+* Album: Beautiful People: The Greatest Hits of Melanie
+
+* Preview: https://p.scdn.co/mp3-preview/1a59ed2c547ed1328f761dd7a23de9dc3da7e304?cid=1f1b3ecb9cd2456d87e63bdd81078f4a
+
+
+*------------------------   * SONG # 2 *   --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+* Artist: Melanie
+
+* Track: Brand New Key
+
+* Album: Boogie Nights / Music From The Original Motion Picture
+
+* Preview: null
+
+
+*------------------------   * SONG # 3 *   --------------------------*
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+* Artist: The Dollyrots
+
+* Track: Brand New Key
+
+* Album: Because I'm Awesome
+
+* Preview: https://p.scdn.co/mp3-preview/3bdc302ee64c19256872eaf81481f143f484f495?cid=1f1b3ecb9cd2456d87e63bdd81078f4a

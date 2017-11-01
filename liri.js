@@ -22,27 +22,39 @@ switch (liriCommand) {
 		// Instructions for user
 	default:
 		console.log("");
-		console.log("==================================" + "\r\n" + " *****    WELCOME to LIRI   *****" +
-			"\r\n" + "==================================" + "\r\n" + "\r\n" +
-			"Please read the following instructions about how to structure & format " + "\r\n" +
-			"your command, so LIRI can process your request." + "\r\n" + "\r\n" + "\r\n" +
-			"To start, preface each request with 'node liri.js' followed by your <command> " + "\r\n" +
-			"plus <specifics to your search>'" + "\r\n" + "\r\n" +
-			"Check out the list of LIRI commands with properly formatted examples below! " + "\r\n" +
-			"\r\n" + "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" + "\r\n" + "\r\n" + "1. Twitter Command" + "\r\n" +
-			"Get the last 20 tweets by using 'my-tweets'" + "\r\n" +
-			"    --> ex. request = 'node liri.js my-tweets '<your twitter name>' " + "\r\n" + "\r\n" +
-			"2. Spotify Command" + "\r\n" +
-			"Search a song title & get 3 songs matching your search by using 'spotify-this-song'" + "\r\n" +
-			"    --> ex. request = 'node liri.js spotify-this-song '<song name here>' " + "\r\n" + "\r\n" +
-			"3. Movie Command" + "\r\n" +
-			"Search a movie title & get details matching your search by using 'movie-this'" + "\r\n" +
-			"    --> ex. request = 'node liri.js movie-this '<movie name here>' " + "\r\n" + "\r\n" +
-			"4. Random Command" + "\r\n" +
-			"Give LIRI control and type 'do-what-it-says' and see what comes up! " + "\r\n" +
-			"    --> ex. request = 'node liri.js do-what-it-says" + "\r\n" + "\r\n" +
-			"==================================");
 		console.log("");
+		console.log("");
+		console.log("");
+		console.log("");
+		console.log(
+			"*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*"
+			+ "\n" +
+			"*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*"
+				+ "\n" + "     *****    WELCOME to LIRI   *****" + "\n" + 	
+			"*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*" 
+			+ "\n" +
+			"*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*"
+			+ "\n" +
+			"Please read the following instructions about how to structure & format " + "\n" +
+			"your command, so LIRI can process your request." + "\n" + "\n" + "\n" +
+			"To start, preface each request with 'node liri.js' followed by your <command> " + "\n" +
+			"plus <specifics to your search>'" + "\n" + "\n" +
+			"Check out the list of LIRI commands with properly formatted examples below! " + "\n" +
+			"\n" + "*******************" + "\n" + "\n" + "1. Twitter Command" + "\n" +
+			"Get the last 20 tweets by using 'my-tweets'" + "\n" +
+			"    --> ex. request = 'node liri.js my-tweets '<your twitter name>' " + "\n" + "\n" +
+			"2. Spotify Command" + "\n" +
+			"Search for a song & get 3 matching titles by using 'spotify-this-song'" + "\n" +
+			"    --> ex. request = 'node liri.js spotify-this-song '<song name here>' " + "\n" + "\n" +
+			"3. Movie Command" + "\n" +
+			"Search a movie title & get details matching your search by using 'movie-this'" + "\n" +
+			"    --> ex. request = 'node liri.js movie-this '<movie name here>' " + "\n" + "\n" +
+			"4. Random Command" + "\n" +
+			"Give LIRI control and type 'do-what-it-says' and see what comes up! " + "\n" +
+			"    --> ex. request = 'node liri.js do-what-it-says" + "\n" + "\n" +
+			"*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*");
+		console.log("");
+
 };
 // Twitter | Command: 'my-tweets'
 // =================================================================================
@@ -64,16 +76,16 @@ function myTweets() {
 			for (var i = 0; i < data.length; i++) {
 				// console.log(response); 
 				var j = (i + 1);
-				var twitterResults = "\r\n" + " *-------------------------  TWEET No." + j +
-					"  --------------------------*" + "\r\n" +
-					"*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*" + "\r\n\r\n" +
+				var twitterResults = "\n" + " *-------------------------  TWEET No." + j +
+					"  --------------------------*" + "\n" +
+					"*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*" + "\n\n" +
 					// Date of Tweet
 					moment(data[i].created_at)
-					.format('MMMM Do YYYY, h:mm:ss a') + "\r\n" + "\r\n" +
+					.format('MMMM Do YYYY, h:mm:ss a') + "\n" + "\n" +
 					// Author of Tweet
 					"@" + data[i].user.screen_name + ": " +
 					// Context of Tweet
-					data[i].text + "\r\n\r\n";
+					data[i].text + "\n\n";
 				console.log(twitterResults);
 				logtxt(twitterResults);
 			}
@@ -101,26 +113,26 @@ function movieThis() {
 			var movie = JSON.parse(body);
 			// console.log(movie);
 			// Parse the body for movie data
-			var movieResults = "\r\n" +
-				"*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*" + "\r\n" +
-				"*-----------------------------  MOVIE  ------------------------------*" + "\r\n" +
+			var movieResults = "\n" +
+				"*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*" + "\n" +
+				"*-----------------------------  MOVIE  ------------------------------*" + "\n" +
 				//  Title of the movie.
-				"* Title: " + movie.Title + "\r\n\r\n" +
+				"* Title: " + movie.Title + "\n\n" +
 				//  Year the movie came out.
-				"* Release Date: " + movie.Year + "\r\n\r\n" +
+				"* Release Date: " + movie.Year + "\n\n" +
 				//  Actors in the movie.
-				"* Actors: " + movie.Actors + "\r\n\r\n" +
+				"* Actors: " + movie.Actors + "\n\n" +
 				//  IMDB Rating of the movie.
-				"* IMDB Rating: " + movie.imdbRating + "\r\n\r\n" +
+				"* IMDB Rating: " + movie.imdbRating + "\n\n" +
 				//  Rotten Tomatoes Rating of the movie.
-				"* Rotten Tomatoes Rating: " + movie.Ratings[1].Value + "\r\n\r\n" +
+				"* Rotten Tomatoes Rating: " + movie.Ratings[1].Value + "\n\n" +
 				//  Country where the movie was produced.
-				"* Countries: " + movie.Country + "\r\n\r\n" +
+				"* Countries: " + movie.Country + "\n\n" +
 				//  Language of the movie.
-				"* Language: " + movie.Language + "\r\n\r\n" +
+				"* Language: " + movie.Language + "\n\n" +
 				//  Plot of the movie.
-				"* Plot: " + movie.Plot + " \r\n\r\n" +
-				"*--------------------------------------------------------------------*" + "\r\n";
+				"* Plot: " + movie.Plot + " \n\n" +
+				"*--------------------------------------------------------------------*" + "\n";
 			console.log(movieResults);
 			logtxt(movieResults);
 		} else {
@@ -132,13 +144,8 @@ function movieThis() {
 //  Spotify | Command: 'spotify-this-song'
 // ============================================================================
 function spotifySong(dWISRequest) {
-	var spot = require('./keys.js');
-	var spotify = new Spotify({
-		id: '1f1b3ecb9cd2456d87e63bdd81078f4a',
-		secret: 'b1a723f8159c4b0ea6ec3e03511c33a2'
-		// id: spot.id,
-		// secret: spot.secret
-	});
+	var codes = require('./ids.js');
+	var spotify = new Spotify(codes);
 	var songName = process.argv[3] || dWISRequest;
 	if (!songName) {
 		songName = "Brand New Key";
@@ -151,17 +158,17 @@ function spotifySong(dWISRequest) {
 		var songInfo = data.tracks.items
 		for (var i = 0; i < 3; i++) {
 			var j = (i + 1);
-			var spotifyResults = "\r\n\r\n" + "*------------------------   * SONG # " + j +
-				" *   --------------------------*" + "\r\n" +
-				"*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*" + "\r\n\r\n" +
+			var spotifyResults = "\n\n" + "*------------------------   * SONG # " + j +
+				" *   --------------------------*" + "\n" +
+				"*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*" + "\n\n" +
 				//  Artist / Band Name
-				"* Artist: " + songInfo[i].artists[0].name + "\r\n\r\n" +
+				"* Artist: " + songInfo[i].artists[0].name + "\n\n" +
 				//  Song / Track Title
-				"* Track: " + songInfo[i].name + "\r\n\r\n" +
+				"* Track: " + songInfo[i].name + "\n\n" +
 				//  Album / Record Title
-				"* Album: " + songInfo[i].album.name + "\r\n\r\n" +
+				"* Album: " + songInfo[i].album.name + "\n\n" +
 				//  Link to Preview Track
-				"* Preview: " + songInfo[i].preview_url + "\r\n";
+				"* Preview: " + songInfo[i].preview_url + "\n";
 			console.log(spotifyResults);
 			logtxt(spotifyResults);
 		};
