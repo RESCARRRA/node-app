@@ -38,7 +38,7 @@ _`my-tweets`_
 
 _`spotify-this-song`_
 
-_`movie-this`**_
+_`movie-this`_
 
 _`do-what-it-says`_
 
@@ -83,7 +83,7 @@ __4. ```node liri.js do-what-it-says```__
 
 * Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of the above mentioned commands.
 
-* ICurrently, it is set to run `spotify-this-song` for "I Want it That Way,".
+* Currently, it is set to run `spotify-this-song` for "I Want it That Way,".
 
 
 ### Logging
